@@ -1,0 +1,28 @@
+{
+  "name": "com.codrops.raineffect",
+  "version": "1.0.0",
+  "displayName": "Rain & Water Effect",
+  "description": "A Unity port of the WebGL rain and water drop effect with realistic physics and refraction. Features multiple weather presets, parallax effects, and easy integration.",
+  "unity": "2021.3",
+  "keywords": [
+    "rain",
+    "water",
+    "weather",
+    "effect",
+    "shader",
+    "postprocessing",
+    "refraction",
+    "drops",
+    "parallax"
+  ],
+  "author": {
+    "name": "Lucas Bebber",
+    "url": "http://tympanus.net/codrops/?p=25417"
+  },
+  "contributors": [
+    {
+      "name": "Unity Port Contributors"
+    }
+  ],
+  "category": "Visual Effects"
+}
