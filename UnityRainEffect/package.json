@@ -16,8 +16,13 @@
     "parallax"
   ],
   "author": {
-    "name": "Lucas Bebber (Original WebGL), Unity Port",
+    "name": "Lucas Bebber",
     "url": "http://tympanus.net/codrops/?p=25417"
   },
+  "contributors": [
+    {
+      "name": "Unity Port Contributors"
+    }
+  ],
   "category": "Visual Effects"
 }
